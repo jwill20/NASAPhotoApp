@@ -1,0 +1,49 @@
+ <style>
+
+ body  {
+ padding-top: 70px;
+ }
+ .row {
+ margin-top: 10px;
+ }
+ .alert {
+ display: none;
+ }
+ .navbar {
+ background-color: green;
+ }
+ #ajaxIconBox {
+ 	position: absolute;
+ 	color: #003366;
+ 	background-color: #CFCB8F;
+ 	display: none;
+ 	width: 120px;
+ 	height: 78px;
+ 	top: 380px;
+ 	left: 460px;
+ 	padding: 0px 0px 3px 0px;
+ 	z-index: 200;
+ 	}
+
+ #ajaxIcon {
+ 	position: absolute;
+         display: none;
+ 	top: 10px;
+ 	left: 10px;
+ 	}
+
+ #ajaxIconBoxText {
+ 	position: absolute;
+ 	display: none;
+ 	width: 120px;
+ 	top: 40px;
+ 	left: 0px;
+ 	font-weight: bold;
+ 	}
+
+
+
+
+
+
+ </style>
